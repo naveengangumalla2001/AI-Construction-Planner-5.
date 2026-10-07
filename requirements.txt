@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+joblib
+plotly
+requests
+scikit-learn
+fastapi
+uvicorn
+pydantic
+langgraph
+sentence-transformers
+faiss-cpu
+google-genai
+python-dotenv
+reportlab

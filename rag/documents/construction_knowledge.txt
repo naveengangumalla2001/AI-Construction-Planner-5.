@@ -1,0 +1,44 @@
+Residential Construction Knowledge
+
+Construction generally consists of several major stages.
+
+1. Site Preparation
+Site preparation includes clearing the site, leveling the ground,
+and preparing the area for foundation work.
+
+2. Foundation
+The foundation transfers the building load to the ground.
+Foundation design depends on soil conditions, building loads,
+site conditions, and engineering requirements.
+
+3. Structural Work
+Structural work includes columns, beams, slabs, and other
+load-bearing components.
+
+4. Brick and Plaster Work
+Walls are constructed using appropriate masonry materials.
+Plastering provides a finished surface for walls and ceilings.
+
+5. Electrical and Plumbing
+Electrical systems provide power distribution throughout the building.
+Plumbing systems provide water supply and drainage.
+
+6. Flooring and Painting
+Flooring materials may include tiles, stone, wood, or other materials.
+Painting provides protection and finishing to walls and surfaces.
+
+7. Final Finishing
+Final finishing can include doors, windows, fixtures, fittings,
+cleaning, and other finishing activities.
+
+Construction Cost Factors
+
+Construction cost can depend on built-up area, location,
+number of floors, construction quality, material quality,
+labour cost, material prices, design complexity, and site conditions.
+
+Construction Safety
+
+Construction activities should follow applicable safety standards.
+Structural, electrical, fire-safety, and other technical decisions
+should be reviewed by qualified professionals.
