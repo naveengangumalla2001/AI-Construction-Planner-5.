@@ -3,7 +3,7 @@ import pandas as pd
 import joblib
 import plotly.express as px
 import inspect
-import requests
+from graph.workflow import construction_workflow
 from rag.qa import generate_answer
 from rag.document_loader import load_documents
 from rag.chunking import chunk_documents
@@ -296,15 +296,9 @@ if generate_button:
             "🤖 Running AI Construction Planning Agents..."
         ):
 
-            response = requests.post(
-                API_URL,
-                json=project_input,
-                timeout=120
-            )
-
-            response.raise_for_status()
-
-            workflow_result = response.json()
+            workflow_result = construction_workflow.invoke(
+            project_input
+        )
 
         # Generate visualization objects locally for Streamlit display
         workflow_result["floor_plan"] = call_function_safely(
